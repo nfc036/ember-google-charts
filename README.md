@@ -498,8 +498,8 @@ module('Integration | Component | pretty color', function(hooks) {
 All PRs and issues are welcome.
 
 - `git clone https://github.com/sir-dunxalot/ember-google-charts.git`
-- `cd ember-tooltips`
-- `npm install && bower install`
+- `cd ember-google-charts`
+- `npm install`
 - `ember s`
 - `ember test`, `ember try:testall`, or the `/tests` route
 
